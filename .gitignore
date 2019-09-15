@@ -1,0 +1,8 @@
+*.suo
+*.pdb
+*.vshost.*
+obj/
+bin/IconMe.pdb
+bin/IconMe.vshost.exe
+bin/IconMe.vshost.exe.config
+bin/IconMe.vshost.exe.manifest
